@@ -21,8 +21,8 @@
 
 ### Projects
 
-|                      |                                           |
-| -------------------- | ----------------------------------------- |
+| Project | Description |
+| ------- | ----------- |
 | **[purr](https://github.com/nixcafe/purr)** | Nix flake framework with automatic discovery — turns your project structure into a fully configured flake |
 | **[develop-templates](https://github.com/nixcafe/develop-templates)** | Curated Nix flake templates — `nix flake init -t beans#node` and you're coding |
 | **[nixcafe-docs](https://github.com/nixcafe/nixcafe-docs)** | Documentation monorepo for nixcafe.org — built with Vocs |
