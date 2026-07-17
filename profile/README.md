@@ -8,31 +8,32 @@
 <h1 align="center">nixcafe</h1>
 
 <p align="center">
-  <strong>Nix tooling for the modern developer.</strong><br>
-  Scaffolding · Flakes · Templates · Dev environments
+  <strong>Opinionated Nix tooling for modern development.</strong><br>
+  Scaffolding · Flakes · Templates · Dev Environments
 </p>
 
 <p align="center">
-  <a href="https://nixcafe.org"><img src="https://img.shields.io/badge/website-nixcafe.org-888888?style=flat-square" alt="Website"></a>
-  <a href="https://github.com/nixcafe"><img src="https://img.shields.io/badge/github-nixcafe-888888?style=flat-square&logo=github" alt="GitHub"></a>
+  <a href="https://nixcafe.org"><img src="https://img.shields.io/badge/nixcafe.org-888888?style=flat-square" alt="Website"></a>
+  <a href="https://github.com/nixcafe"><img src="https://img.shields.io/badge/github-@nixcafe-888888?style=flat-square&logo=github" alt="GitHub"></a>
 </p>
 
 ---
 
 ### Projects
 
-| Project | Description |
-| ------- | ----------- |
-| **[purr](https://github.com/nixcafe/purr)** | Nix flake framework with automatic discovery — turns your project structure into a fully configured flake |
-| **[develop-templates](https://github.com/nixcafe/develop-templates)** | Curated Nix flake templates — `nix flake init -t beans#node` and you're coding |
-| **[nixcafe-docs](https://github.com/nixcafe/nixcafe-docs)** | Documentation monorepo for nixcafe.org — built with Vocs |
+| Project | Description | Docs |
+| --- | --- | --- |
+| **[purr](https://github.com/nixcafe/purr)** | Nix flake framework with auto-discovery, namespace support, and a rich module system | [purr.nixcafe.org](https://purr.nixcafe.org) |
+| **[develop-templates](https://github.com/nixcafe/develop-templates)** | Curated Nix flake project templates — `nix flake init -t beans#node` | [templates.nixcafe.org](https://templates.nixcafe.org) |
+| **[cattery-modules](https://github.com/nixcafe/cattery-modules)** | Quick-start NixOS configurations — choose a room, get a complete system | — |
+| **[nixcafe-docs](https://github.com/nixcafe/nixcafe-docs)** | Documentation monorepo powering nixcafe.org and all project docs | — |
 
 ### Philosophy
 
-- **Zero boilerplate** — Start from a single config, not a hundred lines of Nix
-- **Automatic discovery** — Your project structure defines your flake
-- **Composable** — Mix and match modules like building blocks
-- **Nix native** — Built on Nix fundamentals, no lock-in
+- **Zero boilerplate** — start from a single config, not a hundred lines of Nix
+- **Automatic discovery** — your project structure defines the flake
+- **Composable** — mix and match modules like building blocks
+- **Nix native** — built on Nix fundamentals, no lock-in
 
 ---
 
