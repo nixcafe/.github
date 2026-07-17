@@ -25,7 +25,7 @@
 | --- | --- | --- |
 | **[purr](https://github.com/nixcafe/purr)** | Nix flake framework with auto-discovery, namespace support, and a rich module system | [purr.nixcafe.org](https://purr.nixcafe.org) |
 | **[develop-templates](https://github.com/nixcafe/develop-templates)** | Curated Nix flake project templates — `nix flake init -t beans#node` | [templates.nixcafe.org](https://templates.nixcafe.org) |
-| **[cattery-modules](https://github.com/nixcafe/cattery-modules)** | Quick-start NixOS configurations — choose a room, get a complete system | [cattery.nixcafe.org](https://cattery.nixcafe.org) |
+| **[cattery](https://github.com/nixcafe/cattery-modules)** | Quick-start NixOS configurations — choose a room, get a complete system | [cattery.nixcafe.org](https://cattery.nixcafe.org) |
 | **[nixcafe-docs](https://github.com/nixcafe/nixcafe-docs)** | Documentation monorepo — powers nixcafe.org and all project docs | [nixcafe.org](https://nixcafe.org) |
 
 ### Philosophy
